@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TCPAndUDPClients</string>
+
+    <string name="inicio">Cliente TCP o UDP</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_envio_datos">EnvioDatos</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
